@@ -5,7 +5,7 @@ jobs:
     # Use the same Docker base as the project
       - image: circleci/python:latest
 
-    working_directory: ~/contianerize
+    working_directory: ~/projects/containerize
 
     steps:
       - checkout
