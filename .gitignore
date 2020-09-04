@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# prometheus
+prometheus-2.21.0-rc.0.darwin-amd64/
